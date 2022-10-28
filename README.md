@@ -1,4 +1,7 @@
-( - )***PrimerEstado***( - )🍕
-( - ) __SegundoEstado__( - )🍔
+( - )**\*PrimerEstado\*\***🍕
 
-( - )***TercerEstado***( - )🍟
+( - ) **_SegundoEstado_**🍔
+
+( - ) **_TercerEstado_**🍟
+
+prueba
