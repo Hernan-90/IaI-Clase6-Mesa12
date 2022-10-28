@@ -1,5 +1,4 @@
-PrimerEstado🍕
+( - )***PrimerEstado***( - )🍕
+( - ) __SegundoEstado__( - )🍔
 
-SegundoEstado🍔
-
-TercerEstado🍟
+( - )***TercerEstado***( - )🍟
